@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "636570045005",
+    "firebase_url": "https://alpine-8c781.firebaseio.com",
+    "project_id": "alpine-8c781",
+    "storage_bucket": "alpine-8c781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636570045005:android:affb62fcdb7aa16ce0aa04",
+        "android_client_info": {
+          "package_name": "com.sankalpsinha.alpine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636570045005-huo5utogdlra94f9vmise94ji9rs4ksp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVowfGKZclpiJfTffEGxnuZEfxmIBNRyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636570045005-huo5utogdlra94f9vmise94ji9rs4ksp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
